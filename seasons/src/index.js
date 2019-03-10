@@ -8,7 +8,7 @@ class App extends React.Component{
             (position) => console.log(position),
             (error) => console.log(error)
         );
-        return <div> <h1>Latitude: </h1>
+        return <div> <h1>Latitude : </h1>
         </div>;
     };
     }
